@@ -52,7 +52,7 @@ public class RegisterActivity extends AppCompatActivity {
                         startActivity((new Intent(RegisterActivity.this,LoginActivity.class)));
                         }
                         else{
-                            Toast.makeText(getApplicationContext(),"Password must contain at least 8 characters having letters",Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getApplicationContext(),"Password must contain at least 8 letters containing special characters",Toast.LENGTH_SHORT).show();
                         }
                     }
                     else{
