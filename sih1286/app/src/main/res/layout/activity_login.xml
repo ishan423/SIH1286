@@ -47,7 +47,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Vakeel Sahayak"
+        android:text="Nyay Sahayak"
         android:textColor="@color/design_default_color_background"
         android:textColorLink="@color/design_default_color_on_primary"
         android:textSize="34sp"
